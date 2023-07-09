@@ -1,0 +1,68 @@
+* {
+  background-color: white;
+}
+
+#currency a {
+  text-decoration: none;
+  color: #734b6a;
+}
+
+#wrapper {
+  height: 150px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 70px;
+  color: #734b6a;
+}
+
+input {
+  position: relative;
+  border: 2px solid silver;
+  color: black;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+
+}
+
+
+#mainly button:disabled{
+  cursor: not-allowed;
+}
+
+#cur_page_top h1 {
+  text-align: center;
+  margin-top: 70px;
+  color: #734b6a;
+}
+
+#cur_page_back a {
+  text-decoration: none;
+  color: #734b6a;
+}
+
+#cur_page input {
+  position: relative;
+  border: 2px solid silver;
+  color: black;
+  margin-top: 0.7%;
+}
+
+#cur_page button {
+  margin-top: 0.7%;
+}
+
+#cur_page select{
+  margin-top: 0.7%;
+}
+
+#cur_page button:disabled {
+  cursor: not-allowed;
+}
